@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Lily Anne 
 
-<!--
-**lilyannehall/lilyannehall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My pronouns are **they/them**.
 
-Here are some ideas to get you started:
+I’m currently working with **[@freedomofpress](https://github.com/freedomofpress)** as a Newsroom Support Engineer and **[@radicallyopensecurity](https://github.com/radicallyopensecurity)** as a Security Researcher.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The best way to reach me is via [Signal](https://signal.me/#eu/5UKFeQv-Bk1pTWMHkzyYqj5hWEEw75PAeZsdhD8BZz9WaApdch9EhKwGCfWfpm40) or [Email](mailto:lily.anne.hall@protonmail.com). 
+
+PGP public key: https://lilyanne.me/pub.asc
+
+```
+PGP Fingerprint
+66E2 8087 4322 FFB7 8AB4 2DA5 8299 E794 4325 E46E
+```
+
+ Ⓐ ♥ ⚧ 
